@@ -1,4 +1,4 @@
-# 3211-Project
+This project was done as the final project of RME 3211 (Intelligent Systems and Robotics Lab).
 
 
 Project Partner:
