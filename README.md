@@ -1,3 +1,5 @@
+# Automated Stock Trading Using Approximate Q Learning (Linear Approximation)
+
 This project was done as the final project of RME 3211 (Intelligent Systems and Robotics Lab). Here we used Approximate (Linear Approximation) Q Learning for automatic stock trading of three stocks: 
 
 * [Grameenphone Ltd (GRAE)](https://www.investing.com/equities/grameenphone-ltd)
@@ -17,4 +19,4 @@ ACI Formulations Ltd
 
 
 Project Partner:
-* [Safaeid Hossain Arib](https://github.com/Safaeid48)
+* ![image](https://user-images.githubusercontent.com/44209638/191274514-1d72d069-07a3-4dee-9db5-8851dd703d31.png)[Safaeid Hossain Arib](https://github.com/Safaeid48)
