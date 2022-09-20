@@ -18,5 +18,9 @@ ACI Formulations Ltd
 
 
 
+Our code is an updated version of this repository: https://github.com/KonstantinosNikolakakis/Stock-Trading-Reinforcement_Learning
+
+
+
 Project Partner:
 * ![image](https://user-images.githubusercontent.com/44209638/191274514-1d72d069-07a3-4dee-9db5-8851dd703d31.png)[Safaeid Hossain Arib](https://github.com/Safaeid48)
